@@ -1,4 +1,4 @@
-[![Screenshot-22.png](https://i.postimg.cc/8zXrK5my/Screenshot-22.png)](https://postimg.cc/dhd1DJXd)
+
 
 # Getting Started with Create React App
 
